@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		186C048D278F31F600B979DA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186C048C278F31F600B979DA /* HomeViewController.swift */; };
+		186C048F278F432800B979DA /* side-menu.gif in Resources */ = {isa = PBXBuildFile; fileRef = 186C048E278F432800B979DA /* side-menu.gif */; };
 		18C670AC278F197A004762DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C670AB278F197A004762DD /* AppDelegate.swift */; };
 		18C670AE278F197B004762DD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C670AD278F197B004762DD /* SceneDelegate.swift */; };
 		18C670B0278F197B004762DD /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C670AF278F197B004762DD /* MainViewController.swift */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		186C048C278F31F600B979DA /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		186C048E278F432800B979DA /* side-menu.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "side-menu.gif"; sourceTree = "<group>"; };
 		18C670A8278F197A004762DD /* SideMenu-IOS-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SideMenu-IOS-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18C670AB278F197A004762DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18C670AD278F197B004762DD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		18C6709F278F197A004762DD = {
 			isa = PBXGroup;
 			children = (
+				186C048E278F432800B979DA /* side-menu.gif */,
 				18C670AA278F197A004762DD /* SideMenu-IOS-Swift */,
 				18C670A9278F197A004762DD /* Products */,
 			);
@@ -183,6 +186,7 @@
 				18C670B8278F197D004762DD /* LaunchScreen.storyboard in Resources */,
 				18C670B5278F197D004762DD /* Assets.xcassets in Resources */,
 				18C670B3278F197B004762DD /* Main.storyboard in Resources */,
+				186C048F278F432800B979DA /* side-menu.gif in Resources */,
 				18C670CA278F1F08004762DD /* SideMenuCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
